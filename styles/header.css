@@ -9,7 +9,7 @@
 }
 
 .cabecalho{
-    background-color: var(--cor-de-fundo-do-cabecalho);
+    background-color: var(--branco);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -38,11 +38,11 @@
 
 .lista_menu_titulo, .lista_menu_item{
     padding: 1em;
-    background-color: var(--cor-de-fundo-do-cabecalho);
+    background-color: var(--branco);
 }
 
 .lista_menu_titulo{
-    color: var(--cor-letra-cabecalho);
+    color: var(--laranja);
     font-weight: 700;
 
 }
@@ -58,3 +58,4 @@
 .container_botao{
     display: none;
 }
+
