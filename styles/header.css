@@ -42,7 +42,7 @@
 }
 
 .lista_menu_titulo{
-    color: var(--cor-letra-cabecalho);
+    color: var(--laranja);
     font-weight: 700;
 
 }
@@ -58,3 +58,4 @@
 .container_botao{
     display: none;
 }
+
